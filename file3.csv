@@ -1,0 +1,46 @@
+ID,TRT,GENO,IND,REP,YIELD
+1,T01,Canchan,Testigo,I,14
+2,T02,Canchan,Iris green,I,15.5
+3,T03,Canchan,Vacum A,I,16
+4,T04,Canchan,Vacum Q,I,16.8
+5,T05,Canchan,Vacum K,I,20
+6,T06,Unica,Testigo,I,13.6
+7,T07,Unica,Iris green,I,14.5
+8,T08,Unica,Vacum A,I,19
+9,T09,Unica,Vacum Q,I,15.8
+10,T10,Unica,Vacum K,I,14.3
+11,T11,Yungay,Testigo,I,9.5
+12,T12,Yungay,Iris green,I,10.6
+13,T13,Yungay,Vacum A,I,12
+14,T14,Yungay,Vacum Q,I,15
+15,T15,Yungay,Vacum K,I,14.5
+16,T01,Canchan,Testigo,II,20
+17,T02,Canchan,Iris green,II,19.98
+18,T03,Canchan,Vacum A,II,15.6
+19,T04,Canchan,Vacum Q,II,16.7
+20,T05,Canchan,Vacum K,II,15.6
+21,T06,Unica,Testigo,II,18.4
+22,T07,Unica,Iris green,II,19
+23,T08,Unica,Vacum A,II,16.4
+24,T09,Unica,Vacum Q,II,17.6
+25,T10,Unica,Vacum K,II,18.2
+26,T11,Yungay,Testigo,II,11.9
+27,T12,Yungay,Iris green,II,12
+28,T13,Yungay,Vacum A,II,10.2
+29,T14,Yungay,Vacum Q,II,11
+30,T15,Yungay,Vacum K,II,9.8
+31,T01,Canchan,Testigo,III,15.8
+32,T02,Canchan,Iris green,III,16.9
+33,T03,Canchan,Vacum A,III,16.7
+34,T04,Canchan,Vacum Q,III,17.3
+35,T05,Canchan,Vacum K,III,15
+36,T06,Unica,Testigo,III,16
+37,T07,Unica,Iris green,III,17.5
+38,T08,Unica,Vacum A,III,16.8
+39,T09,Unica,Vacum Q,III,15
+40,T10,Unica,Vacum K,III,17.9
+41,T11,Yungay,Testigo,III,13.8
+42,T12,Yungay,Iris green,III,10.5
+43,T13,Yungay,Vacum A,III,12
+44,T14,Yungay,Vacum Q,III,14
+45,T15,Yungay,Vacum K,III,15
